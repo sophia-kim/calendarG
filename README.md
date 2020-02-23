@@ -1,1 +1,1 @@
-# CalendarG
+# calendarG
